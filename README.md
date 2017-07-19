@@ -1,4 +1,4 @@
-# ptt-autologin
+ptt-autologin
 ======
 
 ## usage
